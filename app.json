@@ -1,0 +1,10 @@
+{
+  "name": "bucchim",
+  "description": "Email client integration with Gmail using Symfony2",
+  "repository": "https://github.com/monteiro/bucchim",
+  "logo": "http://symfony.com/logos/symfony_black_03.svg",
+  "keywords": ["symfony", "email", "rest"],
+  "env": {
+    "SYMFONY_ENV": "prod"
+  }
+}

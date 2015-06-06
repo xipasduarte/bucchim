@@ -1,0 +1,3 @@
+email_api:
+    resource: "@EmailApiBundle/Resources/config/routing.yml"
+    prefix:   /
